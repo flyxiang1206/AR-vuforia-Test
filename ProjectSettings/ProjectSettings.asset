@@ -240,8 +240,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: D:/AR/Class2/user.keystore
+  AndroidKeyaliasName: "\u8ECA\u8ECA\u5728\u54EA\u88E1\uFF0C\u7D55\u5C0D\u96E3\u4E0D\u5012\u4F60"
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0

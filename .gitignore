@@ -33,3 +33,5 @@ sysinfo.txt
 
 # Builds
 *.unitypackage
+
+user.keystore
