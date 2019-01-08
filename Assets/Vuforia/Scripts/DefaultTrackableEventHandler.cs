@@ -82,7 +82,7 @@ namespace Vuforia
             {
                 component.enabled = true;
             }
-
+            Main.Get(mTrackableBehaviour.TrackableName); //ADD BY ME
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
         }
 
